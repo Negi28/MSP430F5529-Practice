@@ -1,3 +1,5 @@
+/*Test Project for MCU*/
+/*Author: phatv90@gmail.com*/
 
 #include "io430f5529.h"
 volatile int flag = 0;
